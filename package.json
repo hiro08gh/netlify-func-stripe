@@ -12,5 +12,8 @@
   "scripts": {
     "dev": "netlify-lambda serve ./functions",
     "build": "netlify-lambda build ./functions"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
   }
 }
